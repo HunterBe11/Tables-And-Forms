@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+}
+
+
+table,th,td {
+  border: 1px solid purple;
+  border-collapse: collapse;
+}
